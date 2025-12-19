@@ -12,3 +12,4 @@ Modeling (for later phases): scikit-learn, lightgbm, xgboost, shap, matplotlib, 
 
 You also need a valid OpenAI key to have the LLM functions to work!
 Directories are omitted. They must be changed according to your own needs.
+Feature Dictionary included, but directory must also be changed.
